@@ -1,8 +1,7 @@
 {
-    "name": "gregwar/rst",
+    "name": "axovis/rst",
     "description": "PHP library to parse reStructuredText documents",
     "keywords": ["rst", "markup", "parser"],
-    "homepage": "https://github.com/Gregwar/RST",
     "license": "MIT",
     "authors": [
         {
